@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  padding-top: 3rem;
+}
+
+.container {
+  padding-top: 2rem;
+}
+
+.input-bar {
+  width: 20%
+}
