@@ -9,7 +9,7 @@ interface CaptionFormProps {
 
 const CaptionForm = ({ captionType }: CaptionFormProps) => {
   const configuration = new Configuration({
-    apiKey: "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",
+    apiKey: "",
   });
   const openai = new OpenAIApi(configuration);
 
